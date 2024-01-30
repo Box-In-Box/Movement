@@ -7,4 +7,6 @@ StateMachine : 상황에 따라 상태를 바꿔주고 각 상태의 Operate 함
 
 StateBaseMovement, StateWallRun, StateClimb : 각 상태들은 동시에 실행 되지 않으며, 각 상태들에서 움직임들을 담당
 
-<img src = "https://github.com/Box-In-Box/Lastman_2D/assets/79827366/b6106cb3-0693-411c-ace9-7a35fe6de4ae">
+<img src = "https://github.com/Box-In-Box/Unity-Movement-strategy-pattern/assets/79827366/787f618f-07ba-410d-b80d-98f03999b6ec">
+
+https://github.com/Box-In-Box/Unity-Movement-strategy-pattern/assets/79827366/5469beff-6adb-4a96-8d44-81b30c1247da
