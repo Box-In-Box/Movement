@@ -9,4 +9,4 @@ StateBaseMovement, StateWallRun, StateClimb : 각 상태들은 동시에 실행 
 
 <img src = "https://github.com/Box-In-Box/Unity-Movement-strategy-pattern/assets/79827366/787f618f-07ba-410d-b80d-98f03999b6ec">
 
-https://github.com/Box-In-Box/Unity-Movement-strategy-pattern/assets/79827366/5469beff-6adb-4a96-8d44-81b30c1247da
+https://github.com/Box-In-Box/Unity-Movement-strategy-pattern/assets/79827366/5fb463f1-aceb-4986-b388-c0974ffb7021
